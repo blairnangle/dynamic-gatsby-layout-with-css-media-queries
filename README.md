@@ -1,6 +1,6 @@
 # dynamic-gatsby-layout-with-css-media-queries
 
-Bare-bones Gatsby project to accompany blog post: [blairnangle.com/blog/dynamic-gatsby-layout-with-css-media-queries](htts://blairnangle.com/blog/dynamic-gatsby-layout-with-css-media-queries).
+Bare-bones Gatsby project to accompany blog post: [blairnangle.com/blog/dynamic-gatsby-layout-with-css-media-queries](https://blairnangle.com/blog/dynamic-gatsby-layout-with-css-media-queries).
 
 ## Usage
 
